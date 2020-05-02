@@ -1,0 +1,22 @@
+{
+
+    "userdata" : [
+        {
+            "username" : "boy",
+            "email" : "boyabdulrahmanz@gmail.com",
+            "phone" : "081213655573"
+        },
+        {
+            "username" : "aileva",
+            "email" : "evalia@gmail.com",
+            "phone" : "08123124124"
+        },
+        {
+            "username" : "ided",
+            "email" : "dedi@gmail.com",
+            "phone" : "13423423423"
+        }
+    ]
+
+
+}
